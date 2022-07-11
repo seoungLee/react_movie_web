@@ -9,7 +9,6 @@ function Point({
   runtime,
   genres,
   download_count,
-  summary,
 }) {
   return (
     <div>
@@ -35,7 +34,6 @@ function Point({
               </ul>
             </li>
           </ul>
-          <p>{summary}</p>
         </div>
       </div>
     </div>

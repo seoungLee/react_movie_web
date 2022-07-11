@@ -1,7 +1,12 @@
+* {
+  background-color: antiquewhite;
+}
+
 .container {
   height: 100%;
   display: flex;
   justify-content: center;
+  padding: 15px;
 }
 
 .loader {
@@ -20,6 +25,8 @@
   padding: 50px;
   width: 80%;
   padding-top: 70px;
+  background-color: white;
+  border-radius: 10px;
 }
 
 @media screen and (max-width: 1090px) {

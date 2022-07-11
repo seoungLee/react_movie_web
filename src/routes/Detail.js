@@ -17,7 +17,7 @@ function Detail() {
         setLoading(false);
       });
   }, []);
-  console.log(datas);
+
   return (
     <div className={styles.container}>
       {loading ? (
