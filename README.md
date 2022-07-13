@@ -2,6 +2,11 @@
 
 **PROJECT 소개**
 
+![movieApp](https://user-images.githubusercontent.com/83061014/178624679-894f993a-3ff4-4f2f-8d98-1ef4d8f2d2b1.PNG)
+![movieApp](https://user-images.githubusercontent.com/83061014/178624679-894f993a-3ff4-4f2f-8d98-1ef4d8f2d2b1.PNG)
+![moiveApp2](https://user-images.githubusercontent.com/83061014/178624687-7ca5dfbf-1ef7-40df-89fb-c1d3d65fab93.PNG)
+![moiveApp2](https://user-images.githubusercontent.com/83061014/178624687-7ca5dfbf-1ef7-40df-89fb-c1d3d65fab93.PNG)
+
 노마드 코더의 ReactJS로 영화 웹 서비스 만들기
 
 - 영화 리스트 API를 가져와 영화 목록 페이지 제작
