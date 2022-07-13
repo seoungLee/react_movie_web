@@ -12,7 +12,6 @@ ReactJS로 영화 웹 서비스 만들기
 
 <p align='center'>
     <img src="https://img.shields.io/badge/React-^18.1.0-blue?logo=React"/>
-    <img src="https://img.shields.io/badge/node.js-v18.1.0-green?logo=Node.js"/>
     <img src="https://img.shields.io/badge/react_dom-^18.2.0-blueviolet?logo=ReactOS"/>
      <img src="https://img.shields.io/badge/react_router_dom-^6.3.0-critical?logo=React Table"/>
 </p>
