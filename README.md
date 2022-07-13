@@ -1,70 +1,19 @@
-# Getting Started with Create React App
+# API를 사용한 영화소개
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**PROJECT 소개**
 
-## Available Scripts
+노마드 코더의 ReactJS로 영화 웹 서비스 만들기
 
-In the project directory, you can run:
+- 영화 리스트 API를 가져와 영화 목록 페이지 제작
+- 영화 목록 API의 ID를 확인하여 movie_details API 정보를 가져와 영화 소개 페이지 제작
 
-### `npm start`
+<p align='center'>
+    <img src="https://img.shields.io/badge/React-^18.1.0-blue?logo=React"/>
+    <img src="https://img.shields.io/badge/node.js-v18.1.0-green?logo=Node.js"/>
+    <img src="https://img.shields.io/badge/react_dom-^18.2.0-blueviolet?logo=ReactOS"/>
+     <img src="https://img.shields.io/badge/react_router_dom-^6.3.0-critical?logo=React Table"/>
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**프로젝트 진행 후 느낀 점** :
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- 바닐라 자바스크립트를 통한 todolist 작성 이후 두번째 프로젝트인데 이번 프로젝트를 진행하며 useState와 onClick 등등의 리액트 이벤트, useEffect, useParams의 용도에 대해 학습하고 사용하게 되었다.
